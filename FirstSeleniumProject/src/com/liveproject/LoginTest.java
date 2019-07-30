@@ -1,6 +1,4 @@
 package com.liveproject;
-
-pravash kumar singh
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
